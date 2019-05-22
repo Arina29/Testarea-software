@@ -1,0 +1,15 @@
+C:\univer\Testing\lab2\HtmlParser\HtmlParser\bin\Debug\HtmlParser.exe.config
+C:\univer\Testing\lab2\HtmlParser\HtmlParser\bin\Debug\HtmlParser.exe
+C:\univer\Testing\lab2\HtmlParser\HtmlParser\bin\Debug\HtmlParser.pdb
+C:\univer\Testing\lab2\HtmlParser\HtmlParser\bin\Debug\WebDriver.dll
+C:\univer\Testing\lab2\HtmlParser\HtmlParser\bin\Debug\WebDriver.xml
+C:\univer\Testing\lab2\HtmlParser\HtmlParser\obj\Debug\HtmlParser.csprojAssemblyReference.cache
+C:\univer\Testing\lab2\HtmlParser\HtmlParser\obj\Debug\HtmlParser.csproj.CoreCompileInputs.cache
+C:\univer\Testing\lab2\HtmlParser\HtmlParser\obj\Debug\HtmlParser.csproj.CopyComplete
+C:\univer\Testing\lab2\HtmlParser\HtmlParser\obj\Debug\HtmlParser.exe
+C:\univer\Testing\lab2\HtmlParser\HtmlParser\obj\Debug\HtmlParser.pdb
+C:\univer\Testing\lab2\HtmlParser\HtmlParser\bin\Debug\MoreLinq.dll
+C:\univer\Testing\lab2\HtmlParser\HtmlParser\bin\Debug\System.ValueTuple.dll
+C:\univer\Testing\lab2\HtmlParser\HtmlParser\bin\Debug\MoreLinq.pdb
+C:\univer\Testing\lab2\HtmlParser\HtmlParser\bin\Debug\MoreLinq.xml
+C:\univer\Testing\lab2\HtmlParser\HtmlParser\bin\Debug\System.ValueTuple.xml

@@ -1,0 +1,7 @@
+C:\univer\Testing\lab4\TriangleTest\TriangleTest\obj\Debug\TriangleTest.csprojAssemblyReference.cache
+C:\univer\Testing\lab4\TriangleTest\TriangleTest\obj\Debug\TriangleTest.csproj.CoreCompileInputs.cache
+C:\univer\Testing\lab4\TriangleTest\TriangleTest\bin\Debug\TriangleTest.exe.config
+C:\univer\Testing\lab4\TriangleTest\TriangleTest\bin\Debug\TriangleTest.exe
+C:\univer\Testing\lab4\TriangleTest\TriangleTest\bin\Debug\TriangleTest.pdb
+C:\univer\Testing\lab4\TriangleTest\TriangleTest\obj\Debug\TriangleTest.exe
+C:\univer\Testing\lab4\TriangleTest\TriangleTest\obj\Debug\TriangleTest.pdb
